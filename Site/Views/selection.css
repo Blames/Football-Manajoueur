@@ -18,14 +18,28 @@
 	text-align: center;
 	background-color: pink;
 	border-radius: 15px 50px;
-	font-weight: bold;
-
 }
 
-.Stade_Rennais{
-	
+.club{
+	text-align: left;
+	margin-top: 10px;
+	margin-left: 50px;
+	font-weight: bold;
+
+
 }
 
 .logo{
+	text-align: right;
 	width: 100px;
+	margin-left: 200px;
+	margin-bottom: 20px;
+	height: 100px;
+}
+.logoeag{
+	text-align: right;
+	width: 100px;
+	margin-left: 200px;
+	margin-bottom: 20px;
+	height: 100px;
 }
