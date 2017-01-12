@@ -1,0 +1,21 @@
+
+.titre{
+	text-align : center;
+	font-size: 40px;
+	font-weight: bold;
+	background-color : #4e4e4e;
+}
+
+.texte{
+	background-color: green;
+	margin-left: 70px;
+	font-weight: bold;
+	border-radius: 8px;
+	width: 190px;
+}
+
+.col-xs-4{
+	text-align: center;
+	background-color: pink;
+	border-radius: 8px;
+}

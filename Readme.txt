@@ -5,4 +5,4 @@ By :
 - Baptiste Dinahet
 - Maxime Sorieul
 
-2017, all right reserved.
+2017, NoTaïteule. all right reserved.
