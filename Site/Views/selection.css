@@ -3,7 +3,6 @@
 	text-align : center;
 	font-size: 40px;
 	font-weight: bold;
-	background-color : #4e4e4e;
 }
 
 .texte{
@@ -11,11 +10,22 @@
 	margin-left: 70px;
 	font-weight: bold;
 	border-radius: 8px;
-	width: 190px;
+	width: 180px;
+	border: 2px solid #4CAF50;
 }
 
 .col-xs-4{
 	text-align: center;
 	background-color: pink;
-	border-radius: 8px;
+	border-radius: 15px 50px;
+	font-weight: bold;
+
+}
+
+.Stade_Rennais{
+	
+}
+
+.logo{
+	width: 100px;
 }

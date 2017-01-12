@@ -1,0 +1,47 @@
+body {
+	font-family: "Roboto";
+	margin: 0px;
+	padding: 0px;
+	color: white;
+}
+
+.nav-main {
+	height: 100%;
+	width: 75px;
+	position: fixed;
+	background-color: #4e4e4e;
+	top:0;
+	left: 0;
+    transition: 0.5s ease;
+	z-index: 100;
+	color : white;
+}
+
+.nav-main > ul > li {
+	cursor: pointer;
+}
+
+.btn-menu {
+	text-decoration: none;
+	background-color: #353535;
+	box-shadow: 2px 2px 2px #212121;
+	border: none;
+	border-radius: 2px;
+	text-align: center;
+	color: white;
+	position: relative;
+    transition: 0.1s ease;
+	transform: rotate(0);
+	margin: 15px;
+}
+
+.btn-menu.btn-hamburger.toggled{
+	transition: 0.4s ease;
+	box-shadow: -2px -2px 2px #212121; /*Ici la transition ombre kiffante*/
+}
+
+ul {
+	padding: 0px;
+	list-style: none;	
+	line-height: 3;
+}
