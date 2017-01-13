@@ -2,7 +2,7 @@
 class AccueilController {
 	public function accueil()
 	{
-		require_once('../Views/acceuil.html')
+		require_once('../Views/Accueil/acceuil.html')
 	}
 }
 ?>
